@@ -1,0 +1,5 @@
+{"instruction":"Rewrite this bullet for a Data Engineer role","input":"Worked on ETL pipelines","output":"Built ETL pipelines using Python and SQL to improve data quality and reliability across reporting workflows."}
+{"instruction":"Rewrite this bullet with metrics","input":"Improved pipeline performance","output":"Optimized pipeline performance, reducing runtime by 25% through query tuning and efficient transformations."}
+{"instruction":"Tailor this bullet to Spark","input":"Processed large datasets","output":"Processed large datasets using PySpark, enabling scalable transformations and faster analytics delivery."}
+{"instruction":"Generate a cover letter opening line","input":"Company: X, Role: Data Engineer","output":"I’m excited to apply for the Data Engineer role at X, where my experience building reliable data pipelines aligns with your team’s goals."}
+{"instruction":"Generate interview question","input":"Topic: Data pipelines","output":"Describe a pipeline you built end-to-end and how you ensured data quality, monitoring, and scalability."}
